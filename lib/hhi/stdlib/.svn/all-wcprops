@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib
+END
+builtins_misc.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_misc.idl.hhi
+END
+builtins_output.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_output.idl.hhi
+END
+builtins_xml.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_xml.idl.hhi
+END
+builtins_soap.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_soap.idl.hhi
+END
+builtins_async_mysql.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_async_mysql.idl.hhi
+END
+builtins_apc.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_apc.idl.hhi
+END
+builtins_apd.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_apd.idl.hhi
+END
+builtins_mysql.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_mysql.idl.hhi
+END
+builtins_string.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_string.idl.hhi
+END
+builtins_simplexml.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_simplexml.idl.hhi
+END
+builtins_icu_uspoof.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_icu_uspoof.idl.hhi
+END
+builtins_ipc.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_ipc.idl.hhi
+END
+builtins_process.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_process.idl.hhi
+END
+builtins_mcrypt.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_mcrypt.idl.hhi
+END
+builtins_array.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_array.idl.hhi
+END
+builtins_ldap.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_ldap.idl.hhi
+END
+builtins_image.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_image.idl.hhi
+END
+builtins_hash.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_hash.idl.hhi
+END
+builtins_debugger.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_debugger.idl.hhi
+END
+builtins_function.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_function.idl.hhi
+END
+builtins_icu_ucsdet.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_icu_ucsdet.idl.hhi
+END
+builtins_math.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_math.idl.hhi
+END
+builtins_magick.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_magick.idl.hhi
+END
+builtins_preg.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_preg.idl.hhi
+END
+builtins_spl.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_spl.idl.hhi
+END
+builtins_bcmath.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_bcmath.idl.hhi
+END
+builtins_thrift.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_thrift.idl.hhi
+END
+builtins_curl.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_curl.idl.hhi
+END
+builtins_server.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_server.idl.hhi
+END
+builtins_continuation.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_continuation.idl.hhi
+END
+builtins_mailparse.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_mailparse.idl.hhi
+END
+builtins_session.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_session.idl.hhi
+END
+builtins_openssl.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_openssl.idl.hhi
+END
+builtins_sqlite3.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_sqlite3.idl.hhi
+END
+builtins_variable.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_variable.idl.hhi
+END
+builtins_imap.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_imap.idl.hhi
+END
+builtins_socket.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_socket.idl.hhi
+END
+builtins_reflection.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_reflection.idl.hhi
+END
+builtins_options.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_options.idl.hhi
+END
+builtins_asio.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_asio.idl.hhi
+END
+builtins_datetime.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_datetime.idl.hhi
+END
+builtins_xmlwriter.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_xmlwriter.idl.hhi
+END
+builtins_splfile.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_splfile.idl.hhi
+END
+builtins_mb.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_mb.idl.hhi
+END
+builtins_posix.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_posix.idl.hhi
+END
+builtins_class.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_class.idl.hhi
+END
+builtins_imagesprite.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_imagesprite.idl.hhi
+END
+builtins_icu_ucnv.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_icu_ucnv.idl.hhi
+END
+builtins_iconv.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_iconv.idl.hhi
+END
+builtins_pdo.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_pdo.idl.hhi
+END
+builtins_fb.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_fb.idl.hhi
+END
+builtins_network.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_network.idl.hhi
+END
+builtins_error.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_error.idl.hhi
+END
+builtins_stream.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_stream.idl.hhi
+END
+builtins_zlib.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_zlib.idl.hhi
+END
+builtins_url.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_url.idl.hhi
+END
+builtins_memcache.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_memcache.idl.hhi
+END
+builtins_memcached.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_memcached.idl.hhi
+END
+builtins_intl.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_intl.idl.hhi
+END
+builtins_thread.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_thread.idl.hhi
+END
+builtins_json.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_json.idl.hhi
+END
+builtins_closure.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_closure.idl.hhi
+END
+builtins_file.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_file.idl.hhi
+END
+builtins_icu.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_icu.idl.hhi
+END
+builtins_apache.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_apache.idl.hhi
+END
+builtins_ctype.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_ctype.idl.hhi
+END
+builtins_bzip2.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_bzip2.idl.hhi
+END
+builtins_iterator.idl.hhi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/facebook/hhvm/!svn/ver/9320/trunk/hphp/hack/hhi/stdlib/builtins_iterator.idl.hhi
+END
